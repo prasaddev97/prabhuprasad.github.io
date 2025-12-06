@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prabhuprasad.github.io//sitemap.xml
+Sitemap: https://prabhuprasad.github.io/sitemap.xml
